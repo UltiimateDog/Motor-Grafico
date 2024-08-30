@@ -1,0 +1,120 @@
+C:\Users\erick\source\repos\Exame2\Exame2\bin\Debug\Exame2.exe.config
+C:\Users\erick\source\repos\Exame2\Exame2\bin\Debug\Exame2.exe
+C:\Users\erick\source\repos\Exame2\Exame2\bin\Debug\Exame2.pdb
+C:\Users\erick\source\repos\Exame2\Exame2\obj\Debug\Exame2.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Exame2\Exame2\obj\Debug\Exame2.Properties.Resources.resources
+C:\Users\erick\source\repos\Exame2\Exame2\obj\Debug\Exame2.csproj.GenerateResource.cache
+C:\Users\erick\source\repos\Exame2\Exame2\obj\Debug\Exame2.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Exame2\Exame2\obj\Debug\Exame2.exe
+C:\Users\erick\source\repos\Exame2\Exame2\obj\Debug\Exame2.pdb
+C:\Users\erick\source\repos\Exame2\Exame2\obj\Debug\Exame2.Form1.resources
+C:\Users\pacof\OneDrive\Escritorio\Grficacion y videojuegos\Exame2\Exame2\bin\Debug\Exame2.exe.config
+C:\Users\pacof\OneDrive\Escritorio\Grficacion y videojuegos\Exame2\Exame2\bin\Debug\Exame2.exe
+C:\Users\pacof\OneDrive\Escritorio\Grficacion y videojuegos\Exame2\Exame2\bin\Debug\Exame2.pdb
+C:\Users\pacof\OneDrive\Escritorio\Grficacion y videojuegos\Exame2\Exame2\obj\Debug\Exame2.csproj.AssemblyReference.cache
+C:\Users\pacof\OneDrive\Escritorio\Grficacion y videojuegos\Exame2\Exame2\obj\Debug\Exame2.Form1.resources
+C:\Users\pacof\OneDrive\Escritorio\Grficacion y videojuegos\Exame2\Exame2\obj\Debug\Exame2.Properties.Resources.resources
+C:\Users\pacof\OneDrive\Escritorio\Grficacion y videojuegos\Exame2\Exame2\obj\Debug\Exame2.csproj.GenerateResource.cache
+C:\Users\pacof\OneDrive\Escritorio\Grficacion y videojuegos\Exame2\Exame2\obj\Debug\Exame2.csproj.CoreCompileInputs.cache
+C:\Users\pacof\OneDrive\Escritorio\Grficacion y videojuegos\Exame2\Exame2\obj\Debug\Exame2.exe
+C:\Users\pacof\OneDrive\Escritorio\Grficacion y videojuegos\Exame2\Exame2\obj\Debug\Exame2.pdb
+C:\Users\erick\Downloads\Exame2\Exame2\obj\Debug\Exame2.csproj.AssemblyReference.cache
+C:\Users\erick\Downloads\Exame2\Exame2\obj\Debug\Exame2.Form1.resources
+C:\Users\erick\Downloads\Exame2\Exame2\obj\Debug\Exame2.Properties.Resources.resources
+C:\Users\erick\Downloads\Exame2\Exame2\obj\Debug\Exame2.csproj.GenerateResource.cache
+C:\Users\erick\Downloads\Exame2\Exame2\obj\Debug\Exame2.csproj.CoreCompileInputs.cache
+C:\Users\erick\Downloads\Exame2\Exame2\obj\Debug\Exame2.exe
+C:\Users\erick\Downloads\Exame2\Exame2\obj\Debug\Exame2.pdb
+C:\Users\erick\Downloads\Exame2\Exame2\bin\Debug\Exame2.exe.config
+C:\Users\erick\Downloads\Exame2\Exame2\bin\Debug\Exame2.exe
+C:\Users\erick\Downloads\Exame2\Exame2\bin\Debug\Exame2.pdb
+\\Mac\Home\Documents\Exame2\Exame2\bin\Debug\Exame2.exe.config
+\\Mac\Home\Documents\Exame2\Exame2\bin\Debug\Exame2.exe
+\\Mac\Home\Documents\Exame2\Exame2\bin\Debug\Exame2.pdb
+\\Mac\Home\Documents\Exame2\Exame2\obj\Debug\Exame2.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Exame2\Exame2\obj\Debug\Exame2.Form1.resources
+\\Mac\Home\Documents\Exame2\Exame2\obj\Debug\Exame2.Properties.Resources.resources
+\\Mac\Home\Documents\Exame2\Exame2\obj\Debug\Exame2.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Exame2\Exame2\obj\Debug\Exame2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Exame2\Exame2\obj\Debug\Exame2.exe
+\\Mac\Home\Documents\Exame2\Exame2\obj\Debug\Exame2.pdb
+C:\Users\Alan\Downloads\Exame2\Exame2\Exame2\bin\Debug\Exame2.exe.config
+C:\Users\Alan\Downloads\Exame2\Exame2\Exame2\bin\Debug\Exame2.exe
+C:\Users\Alan\Downloads\Exame2\Exame2\Exame2\bin\Debug\Exame2.pdb
+C:\Users\Alan\Downloads\Exame2\Exame2\Exame2\obj\Debug\Exame2.csproj.AssemblyReference.cache
+C:\Users\Alan\Downloads\Exame2\Exame2\Exame2\obj\Debug\Exame2.Form1.resources
+C:\Users\Alan\Downloads\Exame2\Exame2\Exame2\obj\Debug\Exame2.Properties.Resources.resources
+C:\Users\Alan\Downloads\Exame2\Exame2\Exame2\obj\Debug\Exame2.csproj.GenerateResource.cache
+C:\Users\Alan\Downloads\Exame2\Exame2\Exame2\obj\Debug\Exame2.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Downloads\Exame2\Exame2\Exame2\obj\Debug\Exame2.exe
+C:\Users\Alan\Downloads\Exame2\Exame2\Exame2\obj\Debug\Exame2.pdb
+C:\Users\erick\Documents\Videojuegos\Exame2\Exame2\obj\Debug\Exame2.csproj.AssemblyReference.cache
+C:\Users\erick\Documents\Videojuegos\Exame2\Exame2\obj\Debug\Exame2.Form1.resources
+C:\Users\erick\Documents\Videojuegos\Exame2\Exame2\obj\Debug\Exame2.Properties.Resources.resources
+C:\Users\erick\Documents\Videojuegos\Exame2\Exame2\obj\Debug\Exame2.csproj.GenerateResource.cache
+C:\Users\erick\Documents\Videojuegos\Exame2\Exame2\obj\Debug\Exame2.csproj.CoreCompileInputs.cache
+C:\Users\erick\Documents\Videojuegos\Exame2\Exame2\obj\Debug\Exame2.exe
+C:\Users\erick\Documents\Videojuegos\Exame2\Exame2\obj\Debug\Exame2.pdb
+C:\Users\erick\Documents\Videojuegos\Exame2\Exame2\bin\Debug\Exame2.exe.config
+C:\Users\erick\Documents\Videojuegos\Exame2\Exame2\bin\Debug\Exame2.exe
+C:\Users\erick\Documents\Videojuegos\Exame2\Exame2\bin\Debug\Exame2.pdb
+C:\Users\Alan\Downloads\Exame2 (1)\Exame2\Exame2\bin\Debug\Exame2.exe.config
+C:\Users\Alan\Downloads\Exame2 (1)\Exame2\Exame2\bin\Debug\Exame2.exe
+C:\Users\Alan\Downloads\Exame2 (1)\Exame2\Exame2\bin\Debug\Exame2.pdb
+C:\Users\Alan\Downloads\Exame2 (1)\Exame2\Exame2\obj\Debug\Exame2.csproj.AssemblyReference.cache
+C:\Users\Alan\Downloads\Exame2 (1)\Exame2\Exame2\obj\Debug\Exame2.Form1.resources
+C:\Users\Alan\Downloads\Exame2 (1)\Exame2\Exame2\obj\Debug\Exame2.Properties.Resources.resources
+C:\Users\Alan\Downloads\Exame2 (1)\Exame2\Exame2\obj\Debug\Exame2.csproj.GenerateResource.cache
+C:\Users\Alan\Downloads\Exame2 (1)\Exame2\Exame2\obj\Debug\Exame2.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Downloads\Exame2 (1)\Exame2\Exame2\obj\Debug\Exame2.exe
+C:\Users\Alan\Downloads\Exame2 (1)\Exame2\Exame2\obj\Debug\Exame2.pdb
+C:\Users\Alan\Downloads\Exame2 (2)\Exame2\Exame2\bin\Debug\Exame2.exe.config
+C:\Users\Alan\Downloads\Exame2 (2)\Exame2\Exame2\bin\Debug\Exame2.exe
+C:\Users\Alan\Downloads\Exame2 (2)\Exame2\Exame2\bin\Debug\Exame2.pdb
+C:\Users\Alan\Downloads\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.csproj.AssemblyReference.cache
+C:\Users\Alan\Downloads\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.Form1.resources
+C:\Users\Alan\Downloads\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.Properties.Resources.resources
+C:\Users\Alan\Downloads\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.csproj.GenerateResource.cache
+C:\Users\Alan\Downloads\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Downloads\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.exe
+C:\Users\Alan\Downloads\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.pdb
+C:\Users\erick\Downloads\Exame2 (2)\Exame2\Exame2\bin\Debug\Exame2.exe.config
+C:\Users\erick\Downloads\Exame2 (2)\Exame2\Exame2\bin\Debug\Exame2.exe
+C:\Users\erick\Downloads\Exame2 (2)\Exame2\Exame2\bin\Debug\Exame2.pdb
+C:\Users\erick\Downloads\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.csproj.AssemblyReference.cache
+C:\Users\erick\Downloads\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.Form1.resources
+C:\Users\erick\Downloads\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.Properties.Resources.resources
+C:\Users\erick\Downloads\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.csproj.GenerateResource.cache
+C:\Users\erick\Downloads\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.csproj.CoreCompileInputs.cache
+C:\Users\erick\Downloads\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.exe
+C:\Users\erick\Downloads\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.pdb
+C:\Users\Alan\Downloads\Exame2 (3)\Exame2 (2)\Exame2\Exame2\bin\Debug\Exame2.exe.config
+C:\Users\Alan\Downloads\Exame2 (3)\Exame2 (2)\Exame2\Exame2\bin\Debug\Exame2.exe
+C:\Users\Alan\Downloads\Exame2 (3)\Exame2 (2)\Exame2\Exame2\bin\Debug\Exame2.pdb
+C:\Users\Alan\Downloads\Exame2 (3)\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.csproj.AssemblyReference.cache
+C:\Users\Alan\Downloads\Exame2 (3)\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.Form1.resources
+C:\Users\Alan\Downloads\Exame2 (3)\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.Properties.Resources.resources
+C:\Users\Alan\Downloads\Exame2 (3)\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.csproj.GenerateResource.cache
+C:\Users\Alan\Downloads\Exame2 (3)\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Downloads\Exame2 (3)\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.exe
+C:\Users\Alan\Downloads\Exame2 (3)\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.pdb
+\\Mac\Home\Downloads\Exame2 (3)\Exame2 (2)\Exame2\Exame2\bin\Debug\Exame2.exe.config
+\\Mac\Home\Downloads\Exame2 (3)\Exame2 (2)\Exame2\Exame2\bin\Debug\Exame2.exe
+\\Mac\Home\Downloads\Exame2 (3)\Exame2 (2)\Exame2\Exame2\bin\Debug\Exame2.pdb
+\\Mac\Home\Downloads\Exame2 (3)\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Exame2 (3)\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.Form1.resources
+\\Mac\Home\Downloads\Exame2 (3)\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.Properties.Resources.resources
+\\Mac\Home\Downloads\Exame2 (3)\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Exame2 (3)\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Exame2 (3)\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.exe
+\\Mac\Home\Downloads\Exame2 (3)\Exame2 (2)\Exame2\Exame2\obj\Debug\Exame2.pdb
+C:\Users\Alan\Downloads\FinalVid\FinalVid\Exame2\bin\Debug\Exame2.exe.config
+C:\Users\Alan\Downloads\FinalVid\FinalVid\Exame2\bin\Debug\Exame2.exe
+C:\Users\Alan\Downloads\FinalVid\FinalVid\Exame2\bin\Debug\Exame2.pdb
+C:\Users\Alan\Downloads\FinalVid\FinalVid\Exame2\obj\Debug\Exame2.csproj.AssemblyReference.cache
+C:\Users\Alan\Downloads\FinalVid\FinalVid\Exame2\obj\Debug\Exame2.Form1.resources
+C:\Users\Alan\Downloads\FinalVid\FinalVid\Exame2\obj\Debug\Exame2.Properties.Resources.resources
+C:\Users\Alan\Downloads\FinalVid\FinalVid\Exame2\obj\Debug\Exame2.csproj.GenerateResource.cache
+C:\Users\Alan\Downloads\FinalVid\FinalVid\Exame2\obj\Debug\Exame2.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Downloads\FinalVid\FinalVid\Exame2\obj\Debug\Exame2.exe
+C:\Users\Alan\Downloads\FinalVid\FinalVid\Exame2\obj\Debug\Exame2.pdb
